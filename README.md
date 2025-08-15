@@ -18,13 +18,11 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center; margin-top:10px;">
+    <td colspan="2" style="border:1px solid #A020F0; border-radius:10px; padding:20px; background-color:#0e0e12; color:white; text-align:center; margin-top:10px;">
       <h3>🌟 My Portfolio</h3>
       <p>Showcasing my projects, skills, and creative work — where code meets design.</p>
       <p style="font-size: 0.9em; color: #bbb;">Explore my development journey, tech stack, and featured creations.</p>
-      <p align="center">
-        <a href="https://t2-astra.is-a.dev/" style="color:#A020F0; font-weight:bold;">🚀 Visit Portfolio</a>
-      </p>
+      <a href="https://t2-astra.is-a.dev/" style="color:#A020F0; font-weight:bold;">🚀 Visit Portfolio</a>
     </td>
   </tr>
 </table>

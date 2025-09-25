@@ -1,3 +1,3 @@
 # 🐍 Contribution Snake
-dacccc
+a
 ![Snake animation](https://raw.githubusercontent.com/Kartikmhatre/Kartikmhatre/output/snake.svg)

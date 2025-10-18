@@ -155,30 +155,48 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🎨 Frontend Mastery
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 🔧 Backend Engineering
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗃️ Database Solutions
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🤖 AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![V0.dev](https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Kiro.dev](https://img.shields.io/badge/Kiro.dev-FF6B6B?style=for-the-badge&logo=devdotto&logoColor=white)
 
 </div>
 
@@ -186,35 +204,37 @@
 
 ### 🎯 Currently Exploring
 
-
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 </div>
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/CodeNinja/CodeNinja/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kartikmhatre/Kartikmhatre/output/snake.svg)
 
 ## 📈 GitHub Analytics
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YourBrotherUsername&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&hide=issues" alt="CodeNinja's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikmhatre&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&hide=issues" alt="CodeNinja's GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourBrotherUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikmhatre&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourBrotherUsername&theme=redical&hide_border=true" alt="CodeNinja's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikmhatre&theme=radical&hide_border=true" alt="CodeNinja's Activity Graph" />
 
   <!-- 🔹 Profile Views Counter -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=YourBrotherUsername&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kartikmhatre&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 
   <!-- 🏆 GitHub Trophies -->
   <br><br>
- <img src="https://github-profile-trophy.vercel.app/?username=YourBrotherUsername&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Kartikmhatre&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

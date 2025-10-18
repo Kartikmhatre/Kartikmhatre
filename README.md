@@ -6,7 +6,7 @@
 
 - 🔥 I'm currently mastering **Full Stack Development & DevOps**
   
-- 💡 Ask me about **React, Node.js, Python, Cloud Architecture, Docker**
+- 💡 Ask me about **React, Node.js, Python, Cloud Architecture, Docker** 
   
 - 📧 Connect with me at **your.brother.email@gmail.com**
   

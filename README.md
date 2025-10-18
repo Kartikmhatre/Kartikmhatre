@@ -207,10 +207,6 @@
 
 </div>
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/CodeNinja/CodeNinja/output/snake.svg)
-
 ## 📈 GitHub Analytics
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 

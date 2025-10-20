@@ -8,7 +8,7 @@
    
 - 💡 Ask me about **React, Node.js, Python, Cloud Architecture, Docker**
   
-- 📧 Connect with me at **your.brother.email@gmail.com**
+- 📧 Connect with me at **kartikmhatre1812@gmail.com**
   
 - ⚡ Fun fact: **I debug with my eyes closed and deploy on Fridays** 😎
 

@@ -103,7 +103,7 @@
         <span style="color: #00D4AA;">🤖 Features:</span> Voice-based interviews, real-time feedback, and personalized coaching.
       </p>
       <p align="center" style="margin-top: 20px;">
-        <a href="https://inter-prep-wise.onrender.com/home">
+        <a href="https://inter-prep.zeabur.app">
           <img src="https://img.shields.io/badge/🎯_Start_Interview-F59E0B?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=F59E0B" alt="Start InterPrep" />
         </a>
       </p>

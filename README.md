@@ -129,7 +129,7 @@
         <span style="color: #00D4AA;">⚡ Features:</span> Fast downloads, HD quality, no login required, and sleek modern UI.
       </p>
       <p align="center" style="margin-top: 20px;">
-        <a href="https://instapulse.vercel.app/">
+        <a href="https://instapulse.netlify.app/">
           <img src="https://img.shields.io/badge/🎥_Download_Now-FF0080?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=FF0080" alt="Visit InstaPulse" />
         </a>
       </p>

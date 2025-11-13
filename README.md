@@ -121,6 +121,28 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 35%, #3d2b7a 80%, #5a3c9b 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">📸 InstaPulse</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>High-Quality Instagram Downloader</strong> — Download <strong>videos, reels, posts, and stories</strong> in full HD instantly.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
+        <span style="color: #00D4AA;">⚡ Features:</span> Fast downloads, HD quality, no login required, and sleek modern UI.
+      </p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://instapulse.vercel.app/">
+          <img src="https://img.shields.io/badge/🎥_Download_Now-FF0080?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=FF0080" alt="Visit InstaPulse" />
+        </a>
+      </p>
+    </td>
+    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1e1e3f 0%, #2a2a5a 50%, #3d2b7a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🛠️ Coming Soon</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Stay tuned for my next <strong>AI-integrated developer tool</strong> — merging automation with creativity.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Revolutionizing productivity for developers worldwide.</p>
+      <p align="center" style="margin-top: 20px;">
+        <img src="https://img.shields.io/badge/🚀_Under_Development-00D4AA?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=00D4AA" alt="Coming Soon" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 </div>

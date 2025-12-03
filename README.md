@@ -81,7 +81,7 @@
 A clean and fast **image-based social feed** with smooth UI, instant posting, and modern animations.
 </p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-Perfect for sharing media instantly with a minimal UI.
+download the instagram video, story from here.
 </p>
 <p align="center" style="margin-top: 20px;">
   <a href="https://instapulse.netlify.app/">
@@ -93,7 +93,7 @@ Perfect for sharing media instantly with a minimal UI.
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📚 Inter-Prep</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">
-Your one-stop platform for **interview preparation** — coding, MCQs, aptitude & system design.
+Your one-stop platform for interview preparation — coding, MCQs, aptitude & system design.
 </p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
 Ace your interviews with curated questions and quick practice.

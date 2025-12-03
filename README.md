@@ -16,175 +16,156 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=I+am+CodeNinja;Crafting+digital+experiences.;Innovation+through+code.;Turning+ideas+into+reality.">
 </p>
 
-# 🚀 Featured Projects
-
+# 💼 My Projects
 <div align="center">
-
 <table>
- <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<tr>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🤖 AstraGo AI</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered development platform</strong> — multi-model chat, image generation, and full IDE.</p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Multi-LLM comparison, code assistance, project builder & file analysis.</p>
 <p align="center" style="margin-top: 20px;"><a href="https://www.astrago-ai.dedyn.io/"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch AstraGo AI" /></a></p>
 </td>
- <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📧 1TimeMail</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Generate disposable email addresses instantly — <strong>secure</strong>, <strong>fast</strong>, and <strong>private</strong>.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Perfect for quick sign-ups and avoiding spam in your inbox.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://1timemail.org/"><img src="https://img.shields.io/badge/🔗_Open_Now-FF4757?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=FF4757" alt="Open 1TimeMail" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔍 Text Extractor AI</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Transform documents, images & PDFs into <strong>editable text</strong> instantly with advanced AI.</p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> PDF, JPG, PNG | Handwriting & multi-language recognition.</p>
 <p align="center" style="margin-top: 20px;"><a href="https://testextractor-5uez.onrender.com"><img src="https://img.shields.io/badge/🔗_Try_Now-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=3B82F6" alt="Try Text Extractor AI" /></a></p>
 </td>
-  <tr>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0f0f23 0%, #1e1e3f 50%, #2a2a5a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🌟 Otisium Portfolio</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Personal portfolio showcasing innovative projects and technical expertise — <strong>modern design</strong>, <strong>interactive</strong>, and <strong>responsive</strong>.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Explore my journey through development, design, and creative problem-solving.</p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://otisium.dedyn.io">
-          <img src="https://img.shields.io/badge/🔗_View_Portfolio-FF6B35?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=FF6B35" alt="Visit Portfolio" />
-        </a>
-      </p>
-    </td>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0f0f23 0%, #1e1e3f 50%, #2a2a5a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">📧 1TimeMail</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Generate disposable email addresses instantly — <strong>secure</strong>, <strong>fast</strong>, and <strong>private</strong>.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Perfect for quick sign-ups and avoiding spam in your inbox.</p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://1timemail.org/">
-          <img src="https://img.shields.io/badge/🔗_Open_Now-00D4AA?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=00D4AA" alt="Visit 1TimeMail" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 40%, #3d2b7a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">💸 UpiLink Generator</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://upilinkgenerator.vercel.app/">
-          <img src="https://img.shields.io/badge/🔗_Generate_Links-FF3D71?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=FF3D71" alt="Visit UpiLink Generator" />
-        </a>
-      </p>
-    </td>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: radial-gradient(circle at top left, #12121f 0%, #1e1e3f 50%, #3d2b7a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🎨 Patter-Nix</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional-grade</strong> background patterns and gradients.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Easily copy the code and seamlessly integrate it into your projects.</p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://patter-nix.vercel.app/">
-          <img src="https://img.shields.io/badge/🔗_Explore_Patterns-FFD23F?style=for-the-badge&logoColor=black&labelColor=1e1e3f&color=FFD23F" alt="Visit Patter-Nix" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 30%, #2a2a5a 70%, #3d2b7a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🎬 MediaCraft</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Beautiful graphics made simple.</strong> Upload your content — images, videos, documents — and create stunning visuals with no design skills required!</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-        <span style="color: #00D4AA;">✨ Supports:</span> JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI, and more.
-      </p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://mediacraft.onrender.com/">
-          <img src="https://img.shields.io/badge/🌐_Launch_App-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=8B5CF6" alt="Visit MediaCraft" />
-        </a>
-      </p>
-    </td>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 30%, #2a2a5a 70%, #3d2b7a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🧾 FlexiPDF</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional PDF Tools</strong> — Convert images to PDF and compress files with precision. Built for professionals who demand quality and efficiency.</p>
-      <div style="margin: 15px 0; text-align: left; display: inline-block;">
-        <p style="color: #bbb; font-size: 0.95em; margin: 5px 0;">
-          <span style="color: #00D4AA;">🖼️</span> Image to PDF Converter<br>
-          <span style="color: #00D4AA;">📄</span> PDF Compressor<br>
-          <span style="color: #00D4AA;">🧩</span> PDF to PNG Converter
-        </p>
-      </div>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://flexopdf.zeabur.app/">
-          <img src="https://img.shields.io/badge/🌐_Try_Tools-06B6D4?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=06B6D4" alt="Visit FlexiPDF" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 35%, #3d2b7a 80%, #5a3c9b 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🎤 InterPrep</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>AI-Powered Interview Practice</strong> — Conduct realistic mock interviews with our advanced VAPI agent for comprehensive preparation.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-        <span style="color: #00D4AA;">🤖 Features:</span> Voice-based interviews, real-time feedback, and personalized coaching.
-      </p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://inter-prep.zeabur.app">
-          <img src="https://img.shields.io/badge/🎯_Start_Interview-F59E0B?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=F59E0B" alt="Start InterPrep" />
-        </a>
-      </p>
-    </td>
-    
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💳 UpiLink-Generator</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
+<p align="center" style="margin-top: 20px;"><a href="http://upilinkgenerator.vercel.app/"><img src="https://img.shields.io/badge/🔗_Visit_Site-F97316?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=F97316" alt="Visit UpiLink Generator" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎨 Patter-Nix</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional-grade</strong> background patterns and gradients.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Easily copy the code and seamlessly integrate it into your projects.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://patter-nix.vercel.app/"><img src="https://img.shields.io/badge/🔗_Explore_Now-D946EF?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=D946EF" alt="Visit Patter-Nix" /></a></p>
+</td>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: radial-gradient(circle at top left, #0e0e12 0%, #1a1a2e 50%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🚀 My Portfolio</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio — AI/ML projects & skills by Krish Mhatre.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://otisium.vercel.app/"><img src="https://img.shields.io/badge/🔗_View_Portfolio-FACC15?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FACC15" alt="Explore Portfolio" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📄 FlexoPDF</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Smart file tools made easy.</strong> Convert, compress, edit, and secure your PDFs and images in seconds — fast, free, and no signup required!</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⭐ Supports:</span> PDF, JPG, PNG, DOCX, XLSX, PPTX, WEBP, and more.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://flexopdf.zeabur.app/"><img src="https://img.shields.io/badge/🌐_Launch_App-A855F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=A855F7" alt="Visit FlexoPDF" /></a></p>
+</td>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚙️ Language Converter</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Convert code between <strong>any programming languages</strong> instantly — seamless translation for developers (Open Source Project)</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> Python, JavaScript, Java, C++, Go, Rust, and many more.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://languageconverter.onrender.com/"><img src="https://img.shields.io/badge/🔗_Try_Now-0EA5E9?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=0EA5E9" alt="Visit Language Converter" /></a></p>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 <div align="center">
-  <p style="color: #00D4AA; font-size: 1.1em; margin-top: 30px;">
-    <strong>⚡ Engineered with precision by CodeNinja</strong>
+  <p style="color: #A020F0; font-size: 1.1em; margin-top: 30px;">
+    <strong>🚀 Crafted with passion by Krish Mhatre</strong>
   </p>
   <p style="color: #bbb; font-size: 0.9em;">
-    Discover innovative solutions and connect with me in the digital world
+    Explore more projects and connect with me across the web
   </p>
 </div>
+
 
 <div align="center">
 
 ```
-💡 Philosophy:
-"Code is poetry written in logic, and every bug is just a plot twist"
+🎯 Mission Statement:
+"Building tools that solve real problems and make life easier"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## ⚡ Technology Stack
+
+
+## 🔧 Tech Arsenal
 
 <div align="center">
 
-### 🖥️ Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend Mastery
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-### 🔧 Backend Engineering
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗃️ Database Solutions
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ⚙️ Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![V0.dev](https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### ☁️ Cloud & Hosting
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+
+
+### 🛠️ Tools & Development Environment
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 AI-Powered Tools
+![GPT](https://img.shields.io/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Kiro.dev](https://img.shields.io/badge/Kiro.dev-FF6B6B?style=for-the-badge&logo=devdotto&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
+
 <div align="center">
+
+### 🚀 What I'm Currently Learning
+
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ### 🎯 Currently Exploring
 

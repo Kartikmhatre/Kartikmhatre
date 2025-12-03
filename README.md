@@ -74,6 +74,38 @@
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> Python, JavaScript, Java, C++, Go, Rust, and many more.</p>
 <p align="center" style="margin-top: 20px;"><a href="https://languageconverter.onrender.com/"><img src="https://img.shields.io/badge/🔗_Try_Now-0EA5E9?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=0EA5E9" alt="Visit Language Converter" /></a></p>
 </td>
+ <tr>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📸 InstaPulse</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">
+A clean and fast **image-based social feed** with smooth UI, instant posting, and modern animations.
+</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
+Perfect for sharing media instantly with a minimal UI.
+</p>
+<p align="center" style="margin-top: 20px;">
+  <a href="https://instapulse.netlify.app/">
+    <img src="https://img.shields.io/badge/🔗_Open_InstaPulse-E11D48?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=E11D48" alt="Open InstaPulse" />
+  </a>
+</p>
+</td>
+
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📚 Inter-Prep</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">
+Your one-stop platform for **interview preparation** — coding, MCQs, aptitude & system design.
+</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
+Ace your interviews with curated questions and quick practice.
+</p>
+<p align="center" style="margin-top: 20px;">
+  <a href="https://inter-prep.zeabur.app/">
+    <img src="https://img.shields.io/badge/🔗_Start_Preparing-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=3B82F6" alt="Open Inter-Prep" />
+  </a>
+</p>
+</td>
+</tr>
+
 </tr>
 </table>
 </div>

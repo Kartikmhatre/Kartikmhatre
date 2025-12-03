@@ -82,7 +82,7 @@
 
 <div align="center">
   <p style="color: #A020F0; font-size: 1.1em; margin-top: 30px;">
-    <strong>🚀 Crafted with passion by Krish Mhatre</strong>
+    <strong>🚀 Crafted with passion by Kartik Mhatre</strong>
   </p>
   <p style="color: #bbb; font-size: 0.9em;">
     Explore more projects and connect with me across the web

@@ -39,7 +39,7 @@
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Personal portfolio showcasing innovative projects and technical expertise — <strong>modern design</strong>, <strong>interactive</strong>, and <strong>responsive</strong>.</p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Explore my journey through development, design, and creative problem-solving.</p>
       <p align="center" style="margin-top: 20px;">
-        <a href="https://otisium.onrender.com/">
+        <a href="https://otisium.dedyn.io">
           <img src="https://img.shields.io/badge/🔗_View_Portfolio-FF6B35?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=FF6B35" alt="Visit Portfolio" />
         </a>
       </p>
@@ -101,7 +101,7 @@
         </p>
       </div>
       <p align="center" style="margin-top: 20px;">
-        <a href="https://flexipdf-m7e1.onrender.com/">
+        <a href="https://flexopdf.zeabur.app/">
           <img src="https://img.shields.io/badge/🌐_Try_Tools-06B6D4?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=06B6D4" alt="Visit FlexiPDF" />
         </a>
       </p>
@@ -120,20 +120,7 @@
         </a>
       </p>
     </td>
-    <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 35%, #3d2b7a 80%, #5a3c9b 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">🖼️ EraseBG</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Advanced Background Removal</strong> — Remove backgrounds instantly and blend images seamlessly with professional-grade AI technology.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-        <span style="color: #00D4AA;">✨ Capabilities:</span> Smart background removal, image mixing, and professional editing tools.
-      </p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://erasebg-3m4s.onrender.com">
-          <img src="https://img.shields.io/badge/🎨_Edit_Images-EF4444?style=for-the-badge&logoColor=white&labelColor=1e1e3f&color=EF4444" alt="Try EraseBG" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
+    
     <td style="border: 2px solid #00D4AA; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #12121f 0%, #1e1e3f 35%, #3d2b7a 80%, #5a3c9b 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" width="50%">
       <h3 style="margin-top: 0; color: #00D4AA; font-size: 1.4em;">📸 InstaPulse</h3>
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>High-Quality Instagram Downloader</strong> — Download <strong>videos, reels, posts, and stories</strong> in full HD instantly.</p>

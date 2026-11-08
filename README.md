@@ -58,7 +58,7 @@
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🚀 My Portfolio</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio — AI/ML projects & skills by Krish Mhatre.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://otisium.vercel.app/"><img src="https://img.shields.io/badge/🔗_View_Portfolio-FACC15?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FACC15" alt="Explore Portfolio" /></a></p>
+<p align="center" style="margin-top: 20px;"><a href="https://kartikmhatre.onrender.com/"><img src="https://img.shields.io/badge/🔗_View_Portfolio-FACC15?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FACC15" alt="Explore Portfolio" /></a></p>
 </td>
 </tr>
 <tr>
